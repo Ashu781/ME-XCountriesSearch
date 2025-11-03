@@ -1,6 +1,5 @@
 import React,{useState,useEffect} from 'react';
 import axios from 'axios';
-import sty from './Styles.module.css';
 import Card from './card';
 
 function App() {
